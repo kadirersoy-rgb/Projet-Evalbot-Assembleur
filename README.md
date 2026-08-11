@@ -175,16 +175,6 @@ Le projet utilise plusieurs périphériques de l'EvalBot.
 - **Switch**
 - **TCRT5000** — prototype de suivi de ligne
 
-## 🔬 Prototype de suivi de ligne
-
-Une seconde solution a été étudiée durant le projet afin de permettre à l'EvalBot de suivre automatiquement une trajectoire.
-
-Le prototype reposait sur un capteur infrarouge **TCRT5000**, utilisé pour émettre une lumière et analyser la lumière reçue.
-
-Des essais électroniques ainsi que des opérations de soudure ont été réalisés afin d'étudier son intégration à l'EvalBot.
-
-Cette fonctionnalité n'a finalement pas été intégrée à la version finale du jeu en raison des contraintes de temps rencontrées durant le projet.
-
 ## 📂 Organisation du programme
 
 Le programme principal s'appuie sur plusieurs modules permettant de séparer la logique du jeu de la gestion des périphériques.
