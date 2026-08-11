@@ -5,7 +5,7 @@
 Inspiré du jeu *Smash Hit*, le projet exploite directement les périphériques matériels du robot — **moteurs, bumpers, LEDs, bouton et haut-parleur** — afin de créer un jeu autonome basé sur la détection de collisions.
 
 <p align="center">
-  <img src="docs/bumper-smash.jpg" alt="Bumper Smash sur EvalBot" width="750">
+  <img src="docs/bumper-smash.png" alt="Bumper Smash sur EvalBot" width="750">
 </p>
 
 ## 🎥 Démonstration
